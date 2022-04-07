@@ -1,1 +1,23 @@
+Nia, Remind Me!
 
+An artificial intelligence project using C# programming language (Object-oriented programming).
+
+
+Objectives :
+1.	To design and develop intelligent voice recognition program with offline connectivity.
+2.	To develop smart speaker assistant in reminding users.
+3.	To allow user to receive relevant information by voice command.
+
+Project significant :
+This system will be able to help user to manage their daily task and activities. 
+Just say keyword ‘remind’ to make the system save your tasks on the spot using voice command. 
+This system will not use the internet for reminding the user unless user want to use other speciality like playing song, asking some relevant information. 
+As this system able to remind user, this includes the time, date, and day.
+This could be a two-way communication as user give voice command in English language and the system will repeat it for confirmation and do the task as command.
+
+This project has shown it's ability where it has been proposed to UTeM AI Innovation Challenge 2021 community.
+Earn 2 types of award
+1.  Anugerah Khas Juri
+2.  Anugerah Emas 
+
+Here attach some of animations videos presentation and slides with documentation.
