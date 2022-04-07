@@ -1,7 +1,7 @@
 
 # PortfolioAS
 
-![IMG-20171026-WA0013](https://user-images.githubusercontent.com/65455966/162128659-dad93691-be6a-46ae-a5f6-0bd193797e8d.jpg)
+   ![IMG-20171026-WA0013](https://user-images.githubusercontent.com/65455966/162128659-dad93691-be6a-46ae-a5f6-0bd193797e8d.jpg)
 
 About works, projects, designs, development, documentations
 
